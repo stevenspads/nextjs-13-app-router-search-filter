@@ -12,7 +12,8 @@ export async function GET(
 
     return NextResponse.json(results);
   } catch (error) {
-    const message = error instanceof Error ? error.message : "An error occured";
+    const message =
+      error instanceof Error ? error.message : "An error occurred";
     return NextResponse.json({ error: message }, { status: 500 });
   }
 }
