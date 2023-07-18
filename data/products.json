@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Laptop"
+  },
+  {
+    "id": "2",
+    "name": "IPhone"
+  },
+  {
+    "id": "3",
+    "name": "Standing Desk"
+  },
+  {
+    "id": "4",
+    "name": "Webcam"
+  },
+  {
+    "id": "5",
+    "name": "Headphones"
+  },
+  {
+    "id": "6",
+    "name": "Keyboard"
+  },
+  {
+    "id": "7",
+    "name": "Mouse"
+  },
+  {
+    "id": "8",
+    "name": "PlayStation"
+  },
+  {
+    "id": "9",
+    "name": "Television"
+  },
+  {
+    "id": "10",
+    "name": "Monitor"
+  }
+]
